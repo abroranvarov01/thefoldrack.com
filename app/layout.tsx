@@ -6,35 +6,35 @@ import { SiteHeader } from "@/components/site-header"
 import "./globals.css"
 
 const manrope = Manrope({
-  subsets: ["latin"],
-  weight: ["700"],
-  variable: "--font-heading",
+	subsets: ["latin"],
+	weight: ["700"],
+	variable: "--font-heading",
 })
 
 const nunito = Nunito({
-  subsets: ["latin"],
-  weight: ["300", "400", "600"],
-  variable: "--font-sans",
+	subsets: ["latin"],
+	weight: ["300", "400", "600"],
+	variable: "--font-sans",
 })
 
 export const metadata: Metadata = {
-  title: "FoldRack - Functional Sculpture for Modern Living",
-  description: "Smart drying racks that make every inch of space count. Fold Less. Live More.",
-  generator: "v0.app",
+	title: "FoldRack - Functional Sculpture for Modern Living",
+	description: "Smart drying racks that make every inch of space count. Fold Less. Live More.",
+	referrer: 'unsafe-url'
 }
 
 export default function RootLayout({
-  children,
+	children,
 }: Readonly<{
-  children: React.ReactNode
+	children: React.ReactNode
 }>) {
-  return (
-    <html lang="en">
-      <body className={`${nunito.variable} ${manrope.variable} font-sans antialiased`}>
-        <SiteHeader />
-        <NavigationMenu />
-        {children}
-      </body>
-    </html>
-  )
+	return (
+		<html lang="en">
+			<body className={`${nunito.variable} ${manrope.variable} font-sans antialiased`}>
+				<SiteHeader />
+				<NavigationMenu />
+				{children}
+			</body>
+		</html>
+	)
 }

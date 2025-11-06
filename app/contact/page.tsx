@@ -51,7 +51,7 @@ export default function ContactPage() {
                 <Mail className="h-6 w-6 text-primary mt-1" />
                 <div>
                   <h3 className="font-semibold text-graphite mb-2">Email Us</h3>
-                  <p className="text-foreground/70">hello@foldrack.com</p>
+                  <p className="text-foreground/70">meliodravi@gmail.com</p>
                   <p className="text-sm text-foreground/60 mt-2">We typically respond within 24 hours</p>
                 </div>
               </div>

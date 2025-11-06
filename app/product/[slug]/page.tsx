@@ -28,7 +28,7 @@ const products = [
 			material: "Stainless steel",
 			capacity: "20kg",
 		},
-		affiliate: "https://www.amazon.com/SONGMICS-Stainless-Height-Adjustable-Free-Standing-Clothing/dp/B07TLK6QHD",
+		affiliate: "https://amzn.to/47X47WK",
 	},
 	{
 		slug: "songmics-foldable-2-level",
@@ -51,7 +51,7 @@ const products = [
 			material: "Steel, PP Plastic",
 			capacity: "25kg",
 		},
-		affiliate: "https://www.amazon.com/SONGMICS-Free-Standing-Additional-Height-Adjustable-ULLR521W01/dp/B0CB8HJWG7",
+		affiliate: "https://amzn.to/4hIzlUO",
 	},
 	{
 		slug: "apexchaser-extendable-wall-mounted",
@@ -75,7 +75,7 @@ const products = [
 			capacity: "15kg",
 		},
 		affiliate:
-			"https://www.amazon.com/APEXCHASER-Extendable-14-57in-35-43inW-Space-Saving-Rust-Resistant/dp/B0DSCRVY8T",
+			"https://amzn.to/47pzglA",
 	},
 	{
 		slug: "whitmor-foldable-clothes",
@@ -93,7 +93,7 @@ const products = [
 			material: "Steel with plastic coating",
 			capacity: "10kg",
 		},
-		affiliate: "https://www.amazon.com/Whitmor-Foldable-Clothes-Drying-Rack/dp/B0FM7RPP2K",
+		affiliate: "https://amzn.to/47Gtv1P",
 	},
 	{
 		slug: "augmirr-stainless-outdoor",
@@ -116,7 +116,7 @@ const products = [
 			material: "Stainless steel",
 			capacity: "145kg",
 		},
-		affiliate: "https://www.amazon.com/AUGMIRR-Stainless-Adjustable-Windproof-Silver02/dp/B0936GQNZ8",
+		affiliate: "https://amzn.to/496FE2s",
 	},
 	{
 		slug: "honey-can-do-collapsible-bamboo",
@@ -139,7 +139,7 @@ const products = [
 			material: "Bamboo",
 			capacity: "12kg",
 		},
-		affiliate: "https://www.amazon.com/Honey-Can-Do-Collapsible-Clothes-DRY-09508-Natural/dp/B0BVRWJJR2",
+		affiliate: "https://amzn.to/3WCOayJ",
 	},
 	{
 		slug: "polder-wall-mount-accordion",
@@ -162,7 +162,7 @@ const products = [
 			material: "Steel with plastic coating",
 			capacity: "8kg",
 		},
-		affiliate: "https://www.amazon.com/Polder-Wall-Mount-24-Inch-Accordion-Clothes/dp/B000GBK2WO",
+		affiliate: "https://amzn.to/4oluZFL",
 	},
 	{
 		slug: "leifheit-pegasus-150-black",
@@ -185,7 +185,7 @@ const products = [
 			material: "Alloy steel",
 			capacity: "10kg",
 		},
-		affiliate: "https://www.amazon.com/Leifheit-Pegasus-Clothes-Particularly-Compact/dp/B0C5DY5DN3",
+		affiliate: "https://amzn.to/43jmcf8",
 	},
 	{
 		slug: "joseph-eclipse-adjustable",
@@ -203,7 +203,7 @@ const products = [
 			material: "Steel with plastic connectors",
 			capacity: "15kg",
 		},
-		affiliate: "https://www.amazon.com/Joseph-Eclipse-Adjustable-Integrated-Foldable/dp/B0D8BF9K9D",
+		affiliate: "https://amzn.to/43f5fT5",
 	},
 ]
 

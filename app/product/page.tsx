@@ -17,7 +17,7 @@ const products = [
       "Foldable design",
       "Suitable for indoors and outdoors",
     ],
-    affiliate: "https://www.amazon.com/SONGMICS-Stainless-Height-Adjustable-Free-Standing-Clothing/dp/B07TLK6QHD",
+    affiliate: "https://amzn.to/47X47WK",
   },
   {
     slug: "songmics-foldable-2-level",
@@ -32,7 +32,7 @@ const products = [
       "Height-adjustable wings",
       "Rust-resistant and space-saving",
     ],
-    affiliate: "https://www.amazon.com/SONGMICS-Free-Standing-Additional-Height-Adjustable-ULLR521W01/dp/B0CB8HJWG7",
+    affiliate: "https://amzn.to/4hIzlUO",
   },
   {
     slug: "apexchaser-extendable-wall-mounted",
@@ -48,7 +48,7 @@ const products = [
       "Ideal for laundry room or balcony",
     ],
     affiliate:
-      "https://www.amazon.com/APEXCHASER-Extendable-14-57in-35-43inW-Space-Saving-Rust-Resistant/dp/B0DSCRVY8T",
+      "https://amzn.to/47pzglA",
   },
   {
     slug: "whitmor-foldable-clothes",
@@ -58,7 +58,7 @@ const products = [
     reviews: 300,
     image: "https://m.media-amazon.com/images/I/81Qqn-kXO1L._SX679_.jpg",
     features: ["Foldable for easy storage", "Compact and lightweight", "Suitable for indoor use", "Simple assembly"],
-    affiliate: "https://www.amazon.com/Whitmor-Foldable-Clothes-Drying-Rack/dp/B0FM7RPP2K",
+    affiliate: "https://amzn.to/47Gtv1P",
   },
   {
     slug: "augmirr-stainless-outdoor",
@@ -73,7 +73,7 @@ const products = [
       "Strong and stable (320 lb capacity)",
       "No installation needed",
     ],
-    affiliate: "https://www.amazon.com/AUGMIRR-Stainless-Adjustable-Windproof-Silver02/dp/B0936GQNZ8",
+    affiliate: "https://amzn.to/496FE2s",
   },
   {
     slug: "honey-can-do-collapsible-bamboo",
@@ -88,7 +88,7 @@ const products = [
       "25 linear feet of drying space",
       "Indoor and outdoor ready",
     ],
-    affiliate: "https://www.amazon.com/Honey-Can-Do-Collapsible-Clothes-DRY-09508-Natural/dp/B0BVRWJJR2",
+    affiliate: "https://amzn.to/3WCOayJ",
   },
   {
     slug: "polder-wall-mount-accordion",
@@ -103,7 +103,7 @@ const products = [
       "Folds flat when not in use",
       "Durable construction",
     ],
-    affiliate: "https://www.amazon.com/Polder-Wall-Mount-24-Inch-Accordion-Clothes/dp/B000GBK2WO",
+    affiliate: "https://amzn.to/4oluZFL",
   },
   {
     slug: "leifheit-pegasus-150-black",
@@ -118,7 +118,7 @@ const products = [
       "Stable with parallel legs",
       "Includes small garment holders",
     ],
-    affiliate: "https://www.amazon.com/Leifheit-Pegasus-Clothes-Particularly-Compact/dp/B0C5DY5DN3",
+    affiliate: "https://amzn.to/43jmcf8",
   },
   {
     slug: "joseph-eclipse-adjustable",
@@ -128,7 +128,7 @@ const products = [
     reviews: 250,
     image: "https://m.media-amazon.com/images/I/612jNnj7dWL._AC_SX679_.jpg",
     features: ["Adjustable and foldable", "Integrated peg bag", "Modern grey design", "Space-efficient"],
-    affiliate: "https://www.amazon.com/Joseph-Eclipse-Adjustable-Integrated-Foldable/dp/B0D8BF9K9D",
+    affiliate: "https://amzn.to/43f5fT5",
   },
 ]
 

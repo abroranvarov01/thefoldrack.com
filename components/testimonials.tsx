@@ -3,9 +3,9 @@
 import { useEffect, useRef } from "react"
 
 const testimonials = [
-  { quote: "This rack turns drying into design.", author: "Sarah M." },
-  { quote: "Looks like furniture, folds like paper.", author: "James K." },
-  { quote: "Finally, a drying rack I don't hide away.", author: "Emma L." },
+	{ quote: "This rack turns drying into design.", author: "Emily R." },
+	{ quote: "Looks like furniture, folds like paper.", author: "Michael T." },
+	{ quote: "Finally, a drying rack I don't hide away.", author: "Sophie H." },
 ]
 
 export default function Testimonials() {

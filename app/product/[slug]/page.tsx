@@ -210,27 +210,27 @@ const products = [
 const customerReviewsByProduct: Record<string, any[]> = {
 	"songmics-stainless-gullwing": [
 		{
-			name: "Sarah M.",
+			name: "Anna L.",
 			rating: 5,
 			date: "2 weeks ago",
 			comment:
 				"Absolutely love this drying rack! It's sturdy, looks great, and holds so much laundry. Best purchase I've made this year.",
 		},
 		{
-			name: "James T.",
+			name: "Robert S.",
 			rating: 5,
 			date: "1 month ago",
 			comment: "Perfect for my small apartment. Folds up nicely and doesn't take up much space. Highly recommend!",
 		},
 		{
-			name: "Emily R.",
+			name: "Maria P.",
 			rating: 4,
 			date: "3 weeks ago",
 			comment:
 				"Great quality and very functional. Only wish it came in more color options, but overall very satisfied.",
 		},
 		{
-			name: "Michael K.",
+			name: "David H.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "Exceeded my expectations. The build quality is excellent and it's so easy to set up and fold away.",
@@ -238,25 +238,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"songmics-foldable-2-level": [
 		{
-			name: "Jennifer L.",
+			name: "Sophie K.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "The 2-level design is genius! I can dry twice as much laundry now. Very stable and well-made.",
 		},
 		{
-			name: "David P.",
+			name: "Thomas R.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Great product overall. The adjustable wings are super helpful for larger items.",
 		},
 		{
-			name: "Amanda S.",
+			name: "Laura B.",
 			rating: 5,
 			date: "3 days ago",
 			comment: "Best drying rack I've ever owned. The tall hanging bar is perfect for dresses and long pants.",
 		},
 		{
-			name: "Robert H.",
+			name: "Peter M.",
 			rating: 5,
 			date: "1 month ago",
 			comment: "Sturdy construction and plenty of space. Folds flat for storage which is a huge plus.",
@@ -264,25 +264,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"apexchaser-extendable-wall-mounted": [
 		{
-			name: "Lisa W.",
+			name: "Emma C.",
 			rating: 5,
 			date: "5 days ago",
 			comment: "Perfect for my small laundry room! The wall-mount saves so much floor space.",
 		},
 		{
-			name: "Thomas B.",
+			name: "William F.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Easy to install and very functional. The extendable feature is really convenient.",
 		},
 		{
-			name: "Rachel G.",
+			name: "Julia N.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "Love how it folds away when not in use. Great quality for the price!",
 		},
 		{
-			name: "Kevin D.",
+			name: "Oliver K.",
 			rating: 4,
 			date: "3 weeks ago",
 			comment: "Solid product. Does exactly what it's supposed to do. Would buy again.",
@@ -290,25 +290,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"whitmor-foldable-clothes": [
 		{
-			name: "Patricia N.",
+			name: "Isabella R.",
 			rating: 4,
 			date: "1 week ago",
 			comment: "Simple and affordable. Perfect for my dorm room. Easy to set up and store.",
 		},
 		{
-			name: "Christopher J.",
+			name: "Alexander J.",
 			rating: 5,
 			date: "4 days ago",
 			comment: "Great value for money! Lightweight but surprisingly sturdy.",
 		},
 		{
-			name: "Michelle C.",
+			name: "Victoria M.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Does the job well. Not fancy but reliable and practical.",
 		},
 		{
-			name: "Daniel F.",
+			name: "Henry T.",
 			rating: 5,
 			date: "1 month ago",
 			comment: "Perfect starter drying rack. Can't beat the price for what you get.",
@@ -316,25 +316,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"augmirr-stainless-outdoor": [
 		{
-			name: "Barbara A.",
+			name: "Charlotte D.",
 			rating: 5,
 			date: "3 days ago",
 			comment: "The windproof hooks are a game changer! No more clothes blowing away on windy days.",
 		},
 		{
-			name: "William M.",
+			name: "Nathan P.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "Incredibly sturdy! The 320 lb capacity is no joke. Handles all my laundry with ease.",
 		},
 		{
-			name: "Susan V.",
+			name: "Sophia L.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Great for outdoor use. The stainless steel holds up well in all weather conditions.",
 		},
 		{
-			name: "Richard E.",
+			name: "Benjamin K.",
 			rating: 5,
 			date: "5 days ago",
 			comment: "Best outdoor drying rack on the market. The adjustable length is perfect for my needs.",
@@ -342,25 +342,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"honey-can-do-collapsible-bamboo": [
 		{
-			name: "Nancy K.",
+			name: "Olivia W.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "Love the eco-friendly bamboo design! Looks beautiful and works perfectly.",
 		},
 		{
-			name: "Joseph R.",
+			name: "Marcus B.",
 			rating: 5,
 			date: "3 days ago",
 			comment: "The 25 feet of drying space is amazing. Plus it's sustainable which I really appreciate.",
 		},
 		{
-			name: "Karen T.",
+			name: "Grace Y.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Stylish and functional. The bamboo adds a nice natural touch to my laundry room.",
 		},
 		{
-			name: "Steven L.",
+			name: "Lucas V.",
 			rating: 5,
 			date: "1 month ago",
 			comment: "Lightweight yet sturdy. Collapses easily for storage. Highly recommend!",
@@ -368,25 +368,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"polder-wall-mount-accordion": [
 		{
-			name: "Dorothy H.",
+			name: "Amelia F.",
 			rating: 5,
 			date: "4 days ago",
 			comment: "Perfect space-saving solution! The accordion design is so clever and practical.",
 		},
 		{
-			name: "Paul S.",
+			name: "Sebastian C.",
 			rating: 4,
 			date: "1 week ago",
 			comment: "Easy to install and folds flat when not needed. Great for small bathrooms.",
 		},
 		{
-			name: "Betty M.",
+			name: "Lily R.",
 			rating: 5,
 			date: "2 weeks ago",
 			comment: "Exactly what I needed for my tiny apartment. Durable and well-designed.",
 		},
 		{
-			name: "Mark W.",
+			name: "Gabriel T.",
 			rating: 4,
 			date: "3 weeks ago",
 			comment: "Good quality and very functional. The wall-mount feature is a real space saver.",
@@ -394,25 +394,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"leifheit-pegasus-150-black": [
 		{
-			name: "Helen B.",
+			name: "Zoe M.",
 			rating: 5,
 			date: "5 days ago",
 			comment: "The compact design is perfect for my balcony! Fits through narrow doors easily.",
 		},
 		{
-			name: "George C.",
+			name: "Isaac N.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "15 meters of drying space in such a compact unit is impressive. Very stable too.",
 		},
 		{
-			name: "Sandra P.",
+			name: "Mia H.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Love the black edition! Looks sleek and modern. The small garment holders are handy.",
 		},
 		{
-			name: "Edward G.",
+			name: "Felix A.",
 			rating: 5,
 			date: "3 days ago",
 			comment: "Best balcony drying rack I've found. Stable, compact, and holds plenty of laundry.",
@@ -420,25 +420,25 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 	"joseph-eclipse-adjustable": [
 		{
-			name: "Margaret D.",
+			name: "Eleanor S.",
 			rating: 5,
 			date: "1 week ago",
 			comment: "The integrated peg bag is such a thoughtful feature! Modern design looks great too.",
 		},
 		{
-			name: "Charles Y.",
+			name: "Adrian L.",
 			rating: 5,
 			date: "4 days ago",
 			comment: "Stylish and practical. The grey finish matches my laundry room perfectly.",
 		},
 		{
-			name: "Linda Z.",
+			name: "Claire B.",
 			rating: 4,
 			date: "2 weeks ago",
 			comment: "Adjustable design is very versatile. Quality construction and easy to fold away.",
 		},
 		{
-			name: "Anthony Q.",
+			name: "Theodore R.",
 			rating: 5,
 			date: "6 days ago",
 			comment: "Premium quality drying rack. The peg bag integration is genius. Worth every penny!",
@@ -446,28 +446,28 @@ const customerReviewsByProduct: Record<string, any[]> = {
 	],
 }
 
-const customerReviews = [
+const defaultCustomerReviews = [
 	{
-		name: "Sarah M.",
+		name: "Alex M.",
 		rating: 5,
 		date: "2 weeks ago",
 		comment:
 			"Absolutely love this drying rack! It's sturdy, looks great, and holds so much laundry. Best purchase I've made this year.",
 	},
 	{
-		name: "James T.",
+		name: "Jordan T.",
 		rating: 5,
 		date: "1 month ago",
 		comment: "Perfect for my small apartment. Folds up nicely and doesn't take up much space. Highly recommend!",
 	},
 	{
-		name: "Emily R.",
+		name: "Sam R.",
 		rating: 4,
 		date: "3 weeks ago",
 		comment: "Great quality and very functional. Only wish it came in more color options, but overall very satisfied.",
 	},
 	{
-		name: "Michael K.",
+		name: "Taylor K.",
 		rating: 5,
 		date: "1 week ago",
 		comment: "Exceeded my expectations. The build quality is excellent and it's so easy to set up and fold away.",
@@ -528,7 +528,7 @@ export default function ProductReviewPage() {
 		}
 	}, []);
 
-	const reviews = customerReviewsByProduct[params.slug] || customerReviews
+	const reviews = customerReviewsByProduct[params.slug] || defaultCustomerReviews
 
 	return (
 		<main className="min-h-screen bg-background">
